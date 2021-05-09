@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @sadn3r
+# - 👋 Hi, I’m @sadnr
 ```
 /**
  * - 👀 I’m interested in ...
